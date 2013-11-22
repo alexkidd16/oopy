@@ -1,4 +1,5 @@
 oopy
 ====
 
-Exemplos do curso Objetos Pythonicos
+Exercicios do curso Objetos Pythonicos 
+Resolvidos por Alexandre de Carvalho
